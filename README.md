@@ -8,7 +8,6 @@ Blog web application in Django
 <li>Draft posts</li>
 <li>Comment Section</li>
 
-#Aayushi
 # Front page
 <img width="1552" alt="Screenshot 2019-06-24 at 10 03 50 PM" src="https://user-images.githubusercontent.com/20112458/60036394-c3900080-96cc-11e9-8763-03e077844532.png">
 
